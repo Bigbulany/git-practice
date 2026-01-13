@@ -1,2 +1,3 @@
 Git is like a save system
 It tracks changes.
+Each commit is a save point.
